@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p177725-e1880308.adobeaemcloud.com/bin/franklin.delivery/sanjay-evrig/ifb-commerce-storefront/main"
+    url: "https://author-p178456-e1883826.adobeaemcloud.com/bin/franklin.delivery/sanjay-evrig/ifb-commerce-storefront/main"
     type: "markup"
     suffix: ".html"
   
