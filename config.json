@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "commerce-core-endpoint": "https://mcstaging.ifbappliances.com/graphql",
-      "commerce-endpoint": "https://mcstaging.ifbappliances.com/cs-graphql",
+      "commerce-endpoint": "https://catalog-service.adobe.io/graphql",
       "commerce-assets-enabled": false,
       "headers": {
         "all": {
